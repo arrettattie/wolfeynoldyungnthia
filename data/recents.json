@@ -1,0 +1,11 @@
+{
+  "featured": {
+    "enable": false,
+    "content": "featured",
+    "image": "",
+    "url": "",
+    "title": "",
+    "desc": ""
+  },
+  "content": []
+}

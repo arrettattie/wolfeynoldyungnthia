@@ -1,0 +1,26 @@
+{
+  "data": {
+    "title": "En directo",
+    "description": ""
+  },
+  "contents": [
+    {
+      "title": "LQSA 24 horas",
+      "id": "24-horas",
+      "cover": "",
+      "video": {
+        "normal": "https://cdn7.lqsa.es/hls/stream.m3u8",
+        "backup": [
+          {
+            "id": "LQSA_01",
+            "url": "",
+            "enable": false
+          }
+        ]
+      },
+      "app": false,
+      "custom_error": "¡Alma ahí! La señal no está disponible en estos momentos",
+      "enable": true
+    }
+  ]
+}
