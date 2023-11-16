@@ -1,6 +1,22 @@
 {
   "title": "Capítulos Completos",
   "content": [
+     {
+      "content": "video",
+      "season": "14",
+      "image": "https://i.imgur.com/3dESZ19.jpg",
+      "contentId": "03",
+      "category": "episodios",
+      "id": "LQSAT14E03",
+      "video": {
+        "normal": "https://cdn8.lqsa.es/14x03/master.m3u8",
+        "backup": ""
+      },
+      "title": "LQSA 14x03: Disponible en breves",
+      "desc": "",
+      "app": true,
+      "custom_error": "Episodio disponible en breves"
+    },
     {
       "content": "video",
       "season": "14",
