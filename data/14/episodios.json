@@ -1,28 +1,6 @@
 {
   "title": "Capítulos Completos",
   "content": [
-     {
-      "content": "video",
-      "season": "14",
-      "image": "https://i.imgur.com/leCCtnc.jpg",
-      "contentId": "03",
-      "category": "episodios",
-      "id": "LQSAT14E03",
-      "video": {
-        "normal": "",
-        "backup": [
-        {
-            "id": "EP01",
-            "url": "//ok.ru/videoembed/8124189379294",
-            "enable": true
-          }]
-        
-      },
-      "title": "Un descerebrado ambicioso, un espetero desmemoriado y unas gotitas de anticongelante",
-      "desc": "Victoria acosa a los Recio en la pescadería, Antonio intenta evitarlo, pero Balmaseda de Unzeta y Téllez-Girón es dura oponente. Amador busca éxito a pesar de la pensión de invalidez. Bruno y Lola urden un plan para descubrir si Fermín finge su amnesia. Yoli y Óscar mantienen una relación sin compromiso, Menchu se entromete. Martín trabaja en la cafebrería y Karma cuida de su bebé sin experiencia.",
-      "app": false,
-      "custom_error": "Episodio disponible en breves"
-    },
     {
       "content": "video",
       "season": "14",
@@ -50,6 +28,28 @@
       },
       "title": "Un tetalibán, un hidroanencefálico y un ovocucaracholácteo",
       "desc": "Victoria Rafaela vende el piso de su hermana, y Antonio busca adquirirlo para vengarse de la marquesa. Amador descubre algo inaudito durante una visita a urgencias. Menchu busca el amor en una sesión de «speed dating» con Fina. Greta, siguiendo el consejo de una psicóloga, busca amistad entre sus vecinas. Cristina, deprimida por la maternidad, encuentra apoyo en sus nuevas vecinas."
+    },
+       {
+      "content": "video",
+      "season": "14",
+      "image": "https://i.imgur.com/leCCtnc.jpg",
+      "contentId": "03",
+      "category": "episodios",
+      "id": "LQSAT14E03",
+      "video": {
+        "normal": "",
+        "backup": [
+        {
+            "id": "EP01",
+            "url": "//ok.ru/videoembed/8124189379294",
+            "enable": true
+          }]
+        
+      },
+      "title": "Un descerebrado ambicioso, un espetero desmemoriado y unas gotitas de anticongelante",
+      "desc": "Victoria acosa a los Recio en la pescadería, Antonio intenta evitarlo, pero Balmaseda de Unzeta y Téllez-Girón es dura oponente. Amador busca éxito a pesar de la pensión de invalidez. Bruno y Lola urden un plan para descubrir si Fermín finge su amnesia. Yoli y Óscar mantienen una relación sin compromiso, Menchu se entromete. Martín trabaja en la cafebrería y Karma cuida de su bebé sin experiencia.",
+      "app": false,
+      "custom_error": "Episodio disponible en breves"
     }
   ]
 }
