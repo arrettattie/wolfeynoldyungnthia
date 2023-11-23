@@ -11,6 +11,28 @@
     {
       "content": "video",
       "season": "14",
+      "image": "https://i.imgur.com/I3XaFdH.jpg",
+      "contentId": "04",
+      "category": "episodios",
+      "id": "LQSAT14E04",
+      "video": {
+        "normal": "https://cdn8.lqsa.es/14x04/master.m3u8",
+        "backup": [
+        {
+            "id": "EP01",
+            "url": "//ok.ru/videoembed/8146135878366",
+            "enable": true
+          }]
+        
+      },
+      "title": "Un mayorista entretenido, un descerebrado arrepentido y una proteína de primera calidad",
+      "desc": "Berta contrata a una atractiva becaria para mantener a Antonio distraído en su rol de CEO. Fermín crea un negocio lucrativo con la leche materna de Cristina. Agustín encuentra una novia, teniendo pareja por primera vez. Óscar se reencuentra con su ex Vero, complicando su relación con Yoli. Greta intenta que Esteban se acueste con Maite para equilibrar su pasado adulterio con un comercial.",
+      "app": false,
+      "custom_error": "Episodio disponible en breves"
+    },
+    {
+      "content": "video",
+      "season": "14",
       "image": "https://i.imgur.com/leCCtnc.jpg",
       "contentId": "03",
       "category": "episodios",
