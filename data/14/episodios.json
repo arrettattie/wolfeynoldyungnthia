@@ -59,7 +59,7 @@
       "category": "episodios",
       "id": "LQSAT14E04",
       "video": {
-        "normal": "",
+        "normal": "https://cdn8.lqsa.es/14x04/master.m3u8",
         "backup": [
         {
             "id": "EP01",
