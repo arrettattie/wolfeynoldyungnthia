@@ -24,7 +24,12 @@
       "id": "LQSAT14E02",
       "video": {
         "normal": "",
-        "backup": "//ok.ru/videoembed/8104548502238"
+        "backup": [
+        {
+            "id": "EP01",
+            "url": "//ok.ru/videoembed/8104548502238",
+            "enable": true
+          }]
       },
       "title": "Un tetalibán, un hidroanencefálico y un ovocucaracholácteo",
       "desc": "Victoria Rafaela vende el piso de su hermana, y Antonio busca adquirirlo para vengarse de la marquesa. Amador descubre algo inaudito durante una visita a urgencias. Menchu busca el amor en una sesión de «speed dating» con Fina. Greta, siguiendo el consejo de una psicóloga, busca amistad entre sus vecinas. Cristina, deprimida por la maternidad, encuentra apoyo en sus nuevas vecinas."
