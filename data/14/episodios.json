@@ -23,7 +23,7 @@
       "category": "episodios",
       "id": "LQSAT14E02",
       "video": {
-        "normal": "https://cdn8.lqsa.es/14x02/master.m3u8",
+        "normal": "",
         "backup": "//ok.ru/videoembed/8104548502238"
       },
       "title": "Un tetalibán, un hidroanencefálico y un ovocucaracholácteo",
@@ -37,7 +37,7 @@
       "category": "episodios",
       "id": "LQSAT14E03",
       "video": {
-        "normal": "https://cdn8.lqsa.es/14x03/master.m3u8",
+        "normal": "",
         "backup": [
         {
             "id": "EP01",
@@ -59,7 +59,7 @@
       "category": "episodios",
       "id": "LQSAT14E04",
       "video": {
-        "normal": "https://cdn8.lqsa.es/14x04/master.m3u8",
+        "normal": "",
         "backup": [
         {
             "id": "EP01",
