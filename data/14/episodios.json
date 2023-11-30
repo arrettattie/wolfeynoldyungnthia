@@ -77,6 +77,28 @@
       "desc": "Berta contrata a una atractiva becaria para mantener a Antonio distraído en su rol de CEO. Fermín crea un negocio lucrativo con la leche materna de Cristina. Agustín encuentra una novia, teniendo pareja por primera vez. Óscar se reencuentra con su ex Vero, complicando su relación con Yoli. Greta intenta que Esteban se acueste con Maite para equilibrar su pasado adulterio con un comercial.",
       "app": false,
       "custom_error": "Episodio disponible en breves"
+    },
+       {
+      "content": "video",
+      "season": "14",
+      "image": "https://i.imgur.com/JObtGZM.jpg",
+      "contentId": "05",
+      "category": "episodios",
+      "id": "LQSAT14E05",
+      "video": {
+        "normal": "",
+        "backup": [
+        {
+            "id": "EP01",
+            "url": "//ok.ru/videoembed/8166308776670",
+            "enable": true
+          }]
+        
+      },
+      "title": "Un cuchifritín, un contraste dulcesalado y el cuento de nunca cascar",
+         "desc": "Logi extorsiona a Antonio a cambio de envenenar a la marquesa, Berta descubre su plan. Alonso presiona a Amador para que convenza a Maite de volver con él. Fermín, picado con Martín descubre cómo atacarla. Agustín sigue intentando gestionar su relación con Natalia. Cristina y Martín aceptan hacer un trío con Karma. Yoli está encantada en su papel de “la otra”, pero no se conforma con el sexo.",
+      "app": false,
+      "custom_error": "Episodio disponible en breves"
     }
   ]
 }
