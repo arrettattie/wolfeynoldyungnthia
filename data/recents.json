@@ -11,6 +11,28 @@
     {
       "content": "video",
       "season": "14",
+      "image": "https://i.imgur.com/JObtGZM.jpg",
+      "contentId": "05",
+      "category": "episodios",
+      "id": "LQSAT14E05",
+      "video": {
+        "normal": "",
+        "backup": [
+        {
+            "id": "EP01",
+            "url": "//ok.ru/videoembed/8166308776670",
+            "enable": true
+          }]
+        
+      },
+      "title": "Un cuchifritín, un contraste dulcesalado y el cuento de nunca cascar",
+         "desc": "Logi extorsiona a Antonio a cambio de envenenar a la marquesa, Berta descubre su plan. Alonso presiona a Amador para que convenza a Maite de volver con él. Fermín, picado con Martín descubre cómo atacarla. Agustín sigue intentando gestionar su relación con Natalia. Cristina y Martín aceptan hacer un trío con Karma. Yoli está encantada en su papel de “la otra”, pero no se conforma con el sexo.",
+      "app": false,
+      "custom_error": "Episodio disponible en breves"
+    },
+    {
+      "content": "video",
+      "season": "14",
       "image": "https://i.imgur.com/I3XaFdH.jpg",
       "contentId": "04",
       "category": "episodios",
