@@ -99,6 +99,28 @@
          "desc": "Logi extorsiona a Antonio a cambio de envenenar a la marquesa, Berta descubre su plan. Alonso presiona a Amador para que convenza a Maite de volver con él. Fermín, picado con Martín descubre cómo atacarla. Agustín sigue intentando gestionar su relación con Natalia. Cristina y Martín aceptan hacer un trío con Karma. Yoli está encantada en su papel de “la otra”, pero no se conforma con el sexo.",
       "app": false,
       "custom_error": "Episodio disponible en breves"
+    },
+    {
+      "content": "video",
+      "season": "14",
+      "image": "https://i.imgur.com/FmJL0mi.jpg",
+      "contentId": "06",
+      "category": "episodios",
+      "id": "LQSAT14E06",
+      "video": {
+        "normal": "",
+        "backup": [
+        {
+            "id": "EP01",
+            "url": "//ok.ru/videoembed/8185574722270",
+            "enable": true
+          }]
+        
+      },
+      "title": "Una tómbola gay, un hijo predilecto y una comatosa a la fuga",
+         "desc": "Antonio encuentra una forma de evitar que la marquesa les desahucie de la pescadería. Fermín aprovecha el viaje de Bruno para alquilar su piso a turistas. Óscar planea pedir a Yoli que se case con él. Teodoro junta a Amador y a su padre para que le acompañen en un viaje. Logi echa las cartas a Menchu y la ilusiona con el amor. Julia tortura a sus padres con su ficticia radicalidad religiosa.",
+      "app": false,
+      "custom_error": "Episodio disponible en breves"
     }
   ]
 }
