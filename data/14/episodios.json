@@ -121,6 +121,28 @@
          "desc": "Antonio encuentra una forma de evitar que la marquesa les desahucie de la pescadería. Fermín aprovecha el viaje de Bruno para alquilar su piso a turistas. Óscar planea pedir a Yoli que se case con él. Teodoro junta a Amador y a su padre para que le acompañen en un viaje. Logi echa las cartas a Menchu y la ilusiona con el amor. Julia tortura a sus padres con su ficticia radicalidad religiosa.",
       "app": false,
       "custom_error": "Episodio disponible en breves"
+    },
+    {
+      "content": "video",
+      "season": "14",
+      "image": "https://i.imgur.com/jR2mjDI.jpg",
+      "contentId": "07",
+      "category": "episodios",
+      "id": "LQSAT14E07",
+      "video": {
+        "normal": "",
+        "backup": [
+        {
+            "id": "EP01",
+            "url": "//ok.ru/videoembed/8204349999838",
+            "enable": true
+          }]
+        
+      },
+      "title": "Un mayorista filántropo, un Putero soviético y un agradecido desgraciado",
+         "desc": "Antonio recibe la temida Notificación de Lanzamiento: debe abandonar la Pescadería. Amador y Fermín descubren que Óscar y Victoria venden sus pisos. Julia monta una web para subastar su virginidad. Greta y Esteban pujarán para evitar que su hija mancille su honor. Yoli y Óscar planifican su boda. El pique de suegras está servido. Maite intenta dejar a Alonso.",
+      "app": false,
+      "custom_error": "Episodio disponible en breves"
     }
   ]
 }
